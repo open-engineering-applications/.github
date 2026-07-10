@@ -2,6 +2,8 @@
 
 Building open applications from reusable engineering building blocks.
 
+![Open Engineering Applications hero-banner](./hero-banner.png)
+
 Open Engineering Applications is part of the Open Engineering ecosystem.
 
 Its mission is to define, build, and maintain complete applications that are assembled from reusable Open Engineering elements, stories, maps, characters, runtimes, operating systems, and conventions.
